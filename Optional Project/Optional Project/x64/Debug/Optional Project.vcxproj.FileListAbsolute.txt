@@ -1,0 +1,3 @@
+C:\Users\willi\Documents\GitHub\Optional-Project\Optional Project\Optional Project\x64\Debug\Optional Project.vcxproj.MdMergeInputs.cache
+C:\Users\willi\Documents\GitHub\Optional-Project\Optional Project\Optional Project\x64\Debug\Optional Project.vcxproj.cppwinrt_plat.cache
+C:\Users\willi\Documents\GitHub\Optional-Project\Optional Project\Optional Project\x64\Debug\Optional Project.vcxproj.cppwinrt_comp.cache
